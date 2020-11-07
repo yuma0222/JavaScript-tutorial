@@ -1,0 +1,3 @@
+function ohayo() {
+	alert("Hello!");
+}
